@@ -1,0 +1,47 @@
+# Maven
+target/
+pom.xml.tag
+*.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Application properties (use Railway environment variables instead)
+src/main/resources/application.properties
+
+# Test files
+src/test/
+
+# Documentation
+*.md
+README*
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker files (not needed inside container)
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# Maven wrapper
+mvnw
+mvnw.cmd
+.mvn/
