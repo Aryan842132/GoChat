@@ -8,11 +8,11 @@
 		<version>3.2.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.zest</groupId>
-	<artifactId>zest</artifactId>
+	<groupId>com.gochat</groupId>
+	<artifactId>gochat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zest</name>
-	<description>Event Management System</description>
+	<name>gochat</name>
+	<description>Private Chat Application</description>
 	<url/>
 	<licenses>
 		<license/>
